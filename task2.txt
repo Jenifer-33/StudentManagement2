@@ -1,0 +1,44 @@
+studentmanage.js:48 PROFILE OF ALL STUDENTS:
+studentmanage.js:51 studentId:922122106027 name:Divya grade:7.9 courses:industrial safety,renewable energy,embedded systems,aiml
+studentmanage.js:57 attendence:true
+studentmanage.js:57 attendence:false
+studentmanage.js:57 attendence:true
+studentmanage.js:61 hobbies:sports;,basket ball,chess,badmitton
+studentmanage.js:61 hobbies:music;,guitar,drums
+studentmanage.js:61 hobbies:art;,painting
+studentmanage.js:51 studentId:922122106025 name:Dharshini grade:8 courses:industrial safety,vlsi,embedded systems,aiml
+studentmanage.js:57 attendence:true
+studentmanage.js:57 attendence:false
+studentmanage.js:57 attendence:false
+studentmanage.js:61 hobbies:sports;,basket ball,ludo
+studentmanage.js:61 hobbies:music;,violine,piano
+studentmanage.js:61 hobbies:art;,photography,editing
+studentmanage.js:51 studentId:922122106040 name:janani grade:8.9 courses:IOt 4.0,networks and security,embedded systems,aiml
+studentmanage.js:57 attendence:true
+studentmanage.js:57 attendence:true
+studentmanage.js:57 attendence:true
+studentmanage.js:61 hobbies:sports;,carrom,chess
+studentmanage.js:67 [{…}]0: {studentId: 922122106040, name: 'janani', grade: 8.9, courses: Array(4), attendence: {…}, …}length: 1[[Prototype]]: Array(0)
+studentmanage.js:71 {studentId: 922122106027, name: 'Divya', grade: 7.9, courses: Array(4), attendence: {…}, …}
+studentmanage.js:92 ***adding extra course for student '922122106025'
+studentmanage.js:86 course "iot",added to student Id "922122106025"
+studentmanage.js:94 ***922122106025 after adding iot
+studentmanage.js:96 {studentId: 922122106025, name: 'Dharshini', grade: 8, courses: Array(5), attendence: {…}, …}
+studentmanage.js:107 ***Remove a student out of profile:
+studentmanage.js:103 student with Id "922122106040" is removed
+studentmanage.js:109 ***after removing student:
+studentmanage.js:51 studentId:922122106027 name:Divya grade:7.9 courses:industrial safety,renewable energy,embedded systems,aiml
+studentmanage.js:57 attendence:true
+studentmanage.js:57 attendence:false
+studentmanage.js:57 attendence:true
+studentmanage.js:61 hobbies:sports;,basket ball,chess,badmitton
+studentmanage.js:61 hobbies:music;,guitar,drums
+studentmanage.js:61 hobbies:art;,painting
+studentmanage.js:51 studentId:922122106025 name:Dharshini grade:8 courses:industrial safety,vlsi,embedded systems,aiml,iot
+studentmanage.js:57 attendence:true
+studentmanage.js:57 attendence:false
+studentmanage.js:57 attendence:false
+studentmanage.js:61 hobbies:sports;,basket ball,ludo
+studentmanage.js:61 hobbies:music;,violine,piano
+studentmanage.js:61 hobbies:art;,photography,editing
+studentmanage.js:114 []
